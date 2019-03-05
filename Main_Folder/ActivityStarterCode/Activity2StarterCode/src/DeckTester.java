@@ -19,5 +19,11 @@ public class DeckTester {
 		System.out.println(d.deal());
 		System.out.println(d.deal());
 		System.out.println(d);
+        System.out.println(d.deal());
+        System.out.println(d.deal());
+        System.out.println(d.deal());
+        System.out.println(d.deal());
+        System.out.println(d.deal());  // should print null
+        System.out.println(d);
 	}
 }
